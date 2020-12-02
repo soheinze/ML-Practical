@@ -1,5 +1,12 @@
 # Prak_Gruppe_5_sh
 
-Repository von Sonja Heinze, Gruppe 5 
+Repository by Sonja Heinze, Group 5 
 
-Zielparameter: Vorhersage der Längengrade von Flugzeugpositionen
+Task: Prediction of longitudes of aircraft positions
+
+Notebooks:
+- [Preprocessing](Code/1_Preprocessing.ipynb)
+
+- [Supervised_Learning](Code/2_SupervisedLearning.ipynb)
+
+[Project Report](Documentation/Bericht_Heinze.pdf) (in German)
